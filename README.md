@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1 align="center">hhcl233</h1>
 
-<!--
-**HHCL233/HHCL233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  普通的13岁开发者
+</p>
 
-Here are some ideas to get you started:
+### 主要项目
+- Web-Win-Vue (前端组件库)
+- Web-Win-Vue-Docs (前端组件库文档)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 涉足领域
+- Vue 3
+- TypeScript
+- JavaScript
+- CSS
+- Tauri 2
+- Python
+- .Net (非主要)
+- Microsoft Store
+
+### 联系方式
+- QQ 3543818182
