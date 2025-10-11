@@ -17,7 +17,5 @@
 - Python
 - .Net (非主要)
 - Microsoft Store
-
 ### 联系方式
 - QQ 3543818182
-- 我的同性恋朋友: QQ 938767093
