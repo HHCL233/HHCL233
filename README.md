@@ -17,4 +17,4 @@
 ### 联系方式
 - QQ 3543818182
 ### 统计信息
-[![HHCL233's GitHub stats](https://github-readme-stats.vercel.app/api?username=HHCL233)](https://github.com/anuraghazra/github-readme-stats)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HHCL233&theme=tokyo-night&hide_border=true)](...)
