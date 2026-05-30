@@ -5,7 +5,7 @@
 </p>
 
 ### 主要项目
-- [ezAutoPC (Agentic AI)](https://github.com/HHCL233/ezAutoPC)
+- ProjectRHYC
 
 ### 涉足领域
 - Vue 3
