@@ -5,6 +5,8 @@
 </p>
 
 ### 主要项目
+- SPlayer--
+- CountdownFree
 - ProjectRHYC
 
 ### 涉足领域
